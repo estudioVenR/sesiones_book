@@ -2,7 +2,7 @@ project:
   type: book
 book:
   title: "Sesiones Trabajo de Grado"
-  author: "José Miguel"
+  author: "José Miguel."
   date: "10/7/2025"
   chapters:
     - index.qmd
